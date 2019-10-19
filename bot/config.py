@@ -1,4 +1,4 @@
-token = "913404129:AAFiykNi5FgkzHN1sWnmfeC7yK0myYKh3tA"
+token = "Your Token"
 database_name = "data.db"
 shelve_name = "shelve.db"
 
